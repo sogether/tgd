@@ -1,0 +1,60 @@
+:root{
+    --main-color:#2c3e50;
+    --link-color:#9fdda5;
+    --light-pink:#f59ba5;
+    --light-yellow:#34495e;
+    --light-green:#34495e;
+    --text-color:#4C4646
+}
+
+#main .menu-wrapper
+header #header-bar,
+#main #main-menu, 
+#main #main-content {
+    opacity: 0.9 !important;
+}
+
+html{
+    background:url('https://sogether.github.io/tgd/images/golf/golf.jpg') repeat right top fixed;
+}
+
+header .row>div:nth-child(1)>a{
+    display:block;
+    width:345px;
+    height:50px;
+    background:url(https://sogether.github.io/tgd/images/golf/logo_golf2.png) no-repeat
+}
+
+@keyframes run {
+    -webkit-transform: translate(-100%,-100%);
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+#article-reply-area #reply-real-area .reply > .reply-header > .reply-writer-image, #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer-image,
+#article-info .article-profile-img {
+    content:url('https://sogether.github.io/tgd/images/golf/golfball2.png')
+}
+
+#article-list #article-list-menu>.btn.best>.fa.fa-star:before,.btn-outline-success>i.fa.fa-thumbs-up:before,span.a-badge i.fa.fa-star:before{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-right: 0px;
+    content: "";
+    background: url("https://sogether.github.io/tgd/images/golf/28.png") no-repeat 0 0;
+    color: clear;
+    background-size: 100%;
+}
+.fa-star,
+#main .menu-wrapper>.game-wrapper>a.game>img.icon,
+#article-list>.article-list-row>.item>.list-title>.list-writer>span>img {
+    animation: rotation 1s linear infinite;
+}
+
