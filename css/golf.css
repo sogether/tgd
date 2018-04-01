@@ -41,7 +41,7 @@ header .row>div:nth-child(1)>a{
 #article-info .article-profile-img {
     content:url('https://sogether.github.io/tgd/images/golf/golfball2.png')
 }
-
+/*
 #article-list #article-list-menu>.btn.best>.fa.fa-star:before,.btn-outline-success>i.fa.fa-thumbs-up:before,span.a-badge i.fa.fa-star:before{
     display: inline-block;
     width: 12px;
@@ -52,7 +52,7 @@ header .row>div:nth-child(1)>a{
     color: clear;
     background-size: 100%;
 }
-.fa-star,
+*/
 #main .menu-wrapper>.game-wrapper>a.game>img.icon,
 #article-list>.article-list-row>.item>.list-title>.list-writer>span>img {
     animation: rotation 1s linear infinite;
