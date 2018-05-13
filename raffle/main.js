@@ -56,7 +56,8 @@ function getComments(id, i) {
 	  			for (key in data) {
 	  				var c = data[key]
 	  				if (c["parent"] == 0) {
-	  					comments.set(c["user_id"],[c["nickname"], c["content"], c["logo"]]);
+	  					var logo = c["secret"] == true ? "https:" + c["logo"] : c["logo"]
+	  					comments.set(c["user_id"],[c["nickname"], c["content"], logo]);
 	  					users.push(c["nickname"])
 	  				}
 	  			}
