@@ -5,6 +5,7 @@ $.when( $.ready ).then(function() {
 	$(".table").DataTable({
     	pageResize: true,
     	"columnDefs": [
+    		{ "width": "50px", "targets": 0 },
     		{ "width": "150px", "targets": 1 }
   		]
     });
