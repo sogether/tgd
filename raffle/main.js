@@ -30,9 +30,8 @@ function buildTable() {
         html += '</tr>';
 	}
 
-	$("#comment-body").html(html)
-
-	$(".table").DataTable().destroy()
+	$(".table").DataTable().destroy();
+	$("#comment-body").html(html);
 	$(".table").DataTable({
 		"serverSide": false,
     	"pageResize": true,
