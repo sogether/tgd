@@ -5,3 +5,6 @@
 
 글 번호 입력란에 트게터 글의 번호를 입력해주세요
 만약 글 url이 https://tgd.kr/4439858 라면 __4439858__
+
+
+https://sogether.github.io/tgd/raffle/
