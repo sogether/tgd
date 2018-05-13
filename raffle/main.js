@@ -1,22 +1,16 @@
 $.when( $.ready ).then(function() {
 	comments = new Map;
 	users = []
-	
-	$(".table").DataTable({
-    	pageResize: true,
-    	"columnDefs": [
-    		{ "width": "50px", "targets": 0 },
-    		{ "width": "150px", "targets": 1 }
-  		]
-    });
 
 	$( "#get-comment-button" ).click(function() {
 		// Remove previous data
 		comments = new Map;
+		users = []
 		$( "#get-comment-button" ).prop("disabled", true);
 		$("#loading").show();
 		var id = $( "#id-input" ).val();
 		getComments(id, 1)
+
 	});
 
 	$( "#raffle-button" ).click(function() {
@@ -37,6 +31,16 @@ function buildTable() {
 	}
 
 	$("#comment-body").html(html)
+
+	$(".table").DataTable().destroy()
+	$(".table").DataTable({
+		"serverSide": false,
+    	"pageResize": true,
+    	"columnDefs": [
+    		{ "width": "50px", "targets": 0 },
+    		{ "width": "150px", "targets": 1 }
+  		]
+    });
 }
 
 function getComments(id, i) {
@@ -48,7 +52,6 @@ function getComments(id, i) {
 		if (this.readyState === 4 && this.status === 200) {
 			let response = JSON.parse(this.responseText);
 			let data = response["data"];
-	  		console.log(data)
 
 	  		if (data.length > 0) {
 	  			for (key in data) {
@@ -77,7 +80,6 @@ function getComments(id, i) {
 function downloadDone() {
 	$( "#get-comment-button" ).prop("disabled", false);
 	$("#loading").hide();
-	console.log(comments)
 	buildTable()
 }
 
