@@ -9,8 +9,7 @@ $.when( $.ready ).then(function() {
 		$( "#get-comment-button" ).prop("disabled", true);
 		$("#loading").show();
 		var id = $( "#id-input" ).val();
-		getComments(id, 1)
-
+		getComments(id, 1);
 	});
 
 	$( "#raffle-button" ).click(function() {
@@ -78,8 +77,9 @@ function getComments(id, i) {
 }
 
 function downloadDone() {
-	$( "#get-comment-button" ).prop("disabled", false);
+	$("#get-comment-button").prop("disabled", false);
 	$("#loading").hide();
+	$("#raffle-button").show();
 	buildTable()
 }
 

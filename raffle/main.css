@@ -53,3 +53,7 @@ label, ul, .dataTables_info,
 .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active {
 	color: #fff !important;
 }
+
+.row-2. {
+	margin-bottom: 200px;
+}
