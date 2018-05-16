@@ -43,7 +43,8 @@ function buildTable() {
 
 function getComments(id, i) {
 	var xhr = new XMLHttpRequest();
-	var cors = "https://cors-anywhere.herokuapp.com/"        
+	//var cors = "https://cors-anywhere.herokuapp.com/"     
+	var cors = "https://cryptic-headland-94862.herokuapp.com/"   
 	var url = cors + "https://tgd.kr/board/comment_load/" + id + "/" + i
 
 	xhr.onreadystatechange = function() {
