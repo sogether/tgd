@@ -10,15 +10,94 @@
 span[data-param1*="GreenTeam"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 25px;
-    height: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
 img[alt*="GreenTeam"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
-    width: 28px;
-    height: 28px !important;
-    padding-left: 28px;
-    background-size: 28px 28px;
+    width: 32px;
+    height: 32px !important;
+    padding-left: 32px;
+    background-size: 32px 32px;
 }
+
+span[data-param1*="RedTeam"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicChuni.png);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="RedTeam"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicChuni.png);
+    width: 32px;
+    height: 32px !important;
+    padding-left: 32px;
+    background-size: 32px 32px;
+}
+
+
+span[data-param1*="HappyJack"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSoiru.png);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="HappyJack"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSoiru.png);
+    width: 32px;
+    height: 32px !important;
+    padding-left: 32px;
+    background-size: 32px 32px;
+}
+
+
+span[data-param1*="AngryJack"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBan.png);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="AngryJack"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBan.png);
+    width: 32px;
+    height: 32px !important;
+    padding-left: 32px;
+    background-size: 32px 32px;
+}
+
+
+span[data-param1*="PurpleStar"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSun.png);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="PurpleStar"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSun.png);
+    width: 32px;
+    height: 32px !important;
+    padding-left: 32px;
+    background-size: 32px 32px;
+}
+
+
+span[data-param1*="FBtouchdown"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicZero.png);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="FBtouchdown"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicZero.png);
+    width: 32px;
+    height: 32px !important;
+    padding-left: 32px;
+    background-size: 32px 32px;
+}
+
