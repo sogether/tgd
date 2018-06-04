@@ -8,7 +8,7 @@
 }
 
 span[data-param1*="GreenTeam"] img {
-    background: url(https://i.imgur.com/cLPVnhk.png);
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 25px;
     height: 25px;
     padding-left: 25px;
@@ -16,7 +16,7 @@ span[data-param1*="GreenTeam"] img {
 }
 
 img[alt*="GreenTeam"] {
-    background: url(https://i.imgur.com/cLPVnhk.png);
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 28px;
     height: 28px !important;
     padding-left: 28px;
