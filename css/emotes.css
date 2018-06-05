@@ -23,14 +23,14 @@ img[alt*="GreenTeam"] {
 }
 
 span[data-param1*="RedTeam"] img {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicChuni.png);
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKuku.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
 img[alt*="RedTeam"] {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicChuni.png);
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKuku.png);
     width: 32px;
     height: 32px !important;
     padding-left: 32px;
