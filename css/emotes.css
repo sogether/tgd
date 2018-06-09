@@ -14,6 +14,7 @@ span[data-param1*="GreenTeam"] img {
     background-size: 25px 25px;
 }
 
+img[alt*="GreenTeam"],
 #article-content-wrapper #article-content img[alt*="GreenTeam"],
 #article-reply-area #reply-real-area .reply > .reply-content img[alt*="GreenTeam"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
@@ -30,7 +31,9 @@ span[data-param1*="RedTeam"] img {
     background-size: 25px 25px;
 }
 
-img[alt*="RedTeam"] {
+img[alt*="RedTeam"],
+#article-content-wrapper #article-content img[alt*="RedTeam"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="RedTeam"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKuku.png);
     width: 32px;
     height: 32px !important;
@@ -46,7 +49,9 @@ span[data-param1*="HappyJack"] img {
     background-size: 25px 25px;
 }
 
-img[alt*="HappyJack"] {
+img[alt*="HappyJack"],
+#article-content-wrapper #article-content img[alt*="HappyJack"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="HappyJack"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSoiru.png);
     width: 32px;
     height: 32px !important;
@@ -62,7 +67,9 @@ span[data-param1*="AngryJack"] img {
     background-size: 25px 25px;
 }
 
-img[alt*="AngryJack"] {
+img[alt*="AngryJack"],
+#article-content-wrapper #article-content img[alt*="AngryJack"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="AngryJack"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBan.png);
     width: 32px;
     height: 32px !important;
@@ -78,7 +85,9 @@ span[data-param1*="PurpleStar"] img {
     background-size: 25px 25px;
 }
 
-img[alt*="PurpleStar"] {
+img[alt*="PurpleStar"],
+#article-content-wrapper #article-content img[alt*="PurpleStar"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="PurpleStar"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSun.png);
     width: 32px;
     height: 32px !important;
@@ -94,7 +103,9 @@ span[data-param1*="FBtouchdown"] img {
     background-size: 25px 25px;
 }
 
-img[alt*="FBtouchdown"] {
+img[alt*="FBtouchdown"],
+#article-content-wrapper #article-content img[alt*="FBtouchdown"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="FBtouchdown"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicZero.png);
     width: 32px;
     height: 32px !important;
