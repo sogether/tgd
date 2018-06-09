@@ -14,7 +14,8 @@ span[data-param1*="GreenTeam"] img {
     background-size: 25px 25px;
 }
 
-img[alt*="GreenTeam"] {
+#article-content-wrapper #article-content img[alt*="GreenTeam"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="GreenTeam"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 32px;
     height: 32px !important;
