@@ -1,3 +1,6 @@
+:root{
+    --animated-size: 50px;
+}
 .fr-popup .fr-emoticon {
 	font-size: 30px;
     width: 30px;
@@ -111,5 +114,22 @@ img[alt*="FBtouchdown"],
     height: 32px !important;
     padding-left: 32px;
     background-size: 32px 32px;
+}
+
+span[data-param1*="BCWarrior"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicClap.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="BCWarrior"],
+#article-content-wrapper #article-content img[alt*="BCWarrior"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="BCWarrior"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicClap.gif);
+    width: -var(--animated-size);
+    height:  -var(--animated-size) !important;
+    padding-left: -var(--animated-size);
+    background-size: -var(--animated-size) -var(--animated-size);;
 }
 
