@@ -127,9 +127,9 @@ img[alt*="BCWarrior"],
 #article-content-wrapper #article-content img[alt*="BCWarrior"],
 #article-reply-area #reply-real-area .reply > .reply-content img[alt*="BCWarrior"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicClap.gif);
-    width: -var(--animated-size);
-    height:  -var(--animated-size) !important;
-    padding-left: -var(--animated-size);
-    background-size: -var(--animated-size) -var(--animated-size);;
+    width: var(--animated-size);
+    height:  var(--animated-size) !important;
+    padding-left: var(--animated-size);
+    background-size: var(--animated-size) var(--animated-size);;
 }
 
