@@ -238,6 +238,23 @@ img[alt*="PurpleStar"],
     padding-left: 32px;
     background-size: 32px 32px;
 }
+
+span[data-param1="FBTouchdown"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicZero.png);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="FBTouchdown"],
+#article-content-wrapper #article-content img[alt="FBTouchdown"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="FBTouchdown"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicZero.png);
+    width: 32px;
+    height: 32px !important;
+    padding-left: 32px;
+    background-size: 32px 32px;
+}
 /* --------- to be removed -------- */
 
 
