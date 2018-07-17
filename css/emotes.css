@@ -201,3 +201,56 @@ img[alt*="PJSalt"],
     background-size: var(--animated-size) var(--animated-size);;
 }
 
+span[data-param1*="JonCarnage"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKkyu.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="JonCarnage"],
+#article-content-wrapper #article-content img[alt*="JonCarnage"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="JonCarnage"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKkyu.gif);
+    width: var(--animated-size);
+    height:  var(--animated-size) !important;
+    padding-left: var(--animated-size);
+    background-size: var(--animated-size) var(--animated-size);;
+}
+
+span[data-param1*="KevinTurtle"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicTT.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="KevinTurtle"],
+#article-content-wrapper #article-content img[alt*="KevinTurtle"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="KevinTurtle"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicTT.gif);
+    width: var(--animated-size);
+    height:  var(--animated-size) !important;
+    padding-left: var(--animated-size);
+    background-size: var(--animated-size) var(--animated-size);;
+}
+
+span[data-param1*="Kreygasm"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicScared\.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="Kreygasm"],
+#article-content-wrapper #article-content img[alt*="Kreygasm"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="Kreygasm"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicScared.gif);
+    width: var(--animated-size);
+    height:  var(--animated-size) !important;
+    padding-left: var(--animated-size);
+    background-size: var(--animated-size) var(--animated-size);;
+}
+
+
+
