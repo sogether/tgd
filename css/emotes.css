@@ -7,19 +7,19 @@
 }
 
 .fr-popup .fr-emoticon img {
-	height: 25px;
+	height: 25px !important;
 }
 
-span[data-param1*="JKanStyle"] img {
+span[data-param1="JKanStyle"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="JKanStyle"],
-#article-content-wrapper #article-content img[alt*="JKanStyle"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="JKanStyle"] {
+img[alt="JKanStyle"],
+#article-content-wrapper #article-content img[alt="JKanStyle"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="JKanStyle"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 32px;
     height: 32px !important;
@@ -27,16 +27,16 @@ img[alt*="JKanStyle"],
     background-size: 32px 32px;
 }
 
-span[data-param1*="OptimizePrime"] img {
+span[data-param1="OptimizePrime"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKuku.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="OptimizePrime"],
-#article-content-wrapper #article-content img[alt*="OptimizePrime"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="OptimizePrime"] {
+img[alt="OptimizePrime"],
+#article-content-wrapper #article-content img[alt="OptimizePrime"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="OptimizePrime"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKuku.png);
     width: 32px;
     height: 32px !important;
@@ -45,16 +45,16 @@ img[alt*="OptimizePrime"],
 }
 
 
-span[data-param1*="StoneLightning"] img {
+span[data-param1="StoneLightning"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSoiru.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="StoneLightning"],
-#article-content-wrapper #article-content img[alt*="StoneLightning"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="StoneLightning"] {
+img[alt="StoneLightning"],
+#article-content-wrapper #article-content img[alt="StoneLightning"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="StoneLightning"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSoiru.png);
     width: 32px;
     height: 32px !important;
@@ -63,16 +63,16 @@ img[alt*="StoneLightning"],
 }
 
 
-span[data-param1*="TheRinger"] img {
+span[data-param1="TheRinger"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBan.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="TheRinger"],
-#article-content-wrapper #article-content img[alt*="TheRinger"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="TheRinger"] {
+img[alt="TheRinger"],
+#article-content-wrapper #article-content img[alt="TheRinger"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="TheRinger"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBan.png);
     width: 32px;
     height: 32px !important;
@@ -81,16 +81,16 @@ img[alt*="TheRinger"],
 }
 
 
-span[data-param1*="RedCoat"] img {
+span[data-param1="RedCoat"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSun.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="RedCoat"],
-#article-content-wrapper #article-content img[alt*="RedCoat"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="RedCoat"] {
+img[alt="RedCoat"],
+#article-content-wrapper #article-content img[alt="RedCoat"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="RedCoat"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSun.png);
     width: 32px;
     height: 32px !important;
@@ -116,252 +116,138 @@ img[alt="Kappa"],
     background-size: 32px 32px;
 }
 
-span[data-param1*="BCWarrior"] img {
+span[data-param1="BCWarrior"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicClap.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="BCWarrior"],
-#article-content-wrapper #article-content img[alt*="BCWarrior"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="BCWarrior"] {
+img[alt="BCWarrior"],
+#article-content-wrapper #article-content img[alt="BCWarrior"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="BCWarrior"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicClap.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
-    background-size: var(--animated-size) var(--animated-size);;
+    background-size: var(--animated-size) var(--animated-size);
 }
 
-span[data-param1*="GingerPower"] img {
+span[data-param1="GingerPower"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicDance.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="GingerPower"],
-#article-content-wrapper #article-content img[alt*="GingerPower"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="GingerPower"] {
+img[alt="GingerPower"],
+#article-content-wrapper #article-content img[alt="GingerPower"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="GingerPower"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicDance.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
-    background-size: var(--animated-size) var(--animated-size);;
+    background-size: var(--animated-size) var(--animated-size);
 }
 
-span[data-param1*="DansGame"] img {
+span[data-param1="DansGame"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicHorde.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="DansGame"],
-#article-content-wrapper #article-content img[alt*="DansGame"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="DansGame"] {
+img[alt="DansGame"],
+#article-content-wrapper #article-content img[alt="DansGame"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="DansGame"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicHorde.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
-    background-size: var(--animated-size) var(--animated-size);;
+    background-size: var(--animated-size) var(--animated-size);
 }
 
-span[data-param1*="SwiftRage"] img {
+span[data-param1="SwiftRage"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicShrug.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="SwiftRage"],
-#article-content-wrapper #article-content img[alt*="SwiftRage"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="SwiftRage"] {
+img[alt="SwiftRage"],
+#article-content-wrapper #article-content img[alt="SwiftRage"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="SwiftRage"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicShrug.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
-    background-size: var(--animated-size) var(--animated-size);;
+    background-size: var(--animated-size) var(--animated-size);
 }
 
-span[data-param1*="PJSalt"] img {
+span[data-param1="PJSalt"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicStress.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="PJSalt"],
-#article-content-wrapper #article-content img[alt*="PJSalt"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="PJSalt"] {
+img[alt="PJSalt"],
+#article-content-wrapper #article-content img[alt="PJSalt"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="PJSalt"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicStress.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
-    background-size: var(--animated-size) var(--animated-size);;
+    background-size: var(--animated-size) var(--animated-size);
 }
 
-span[data-param1*="JonCarnage"] img {
+span[data-param1="JonCarnage"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKkyu.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="JonCarnage"],
-#article-content-wrapper #article-content img[alt*="JonCarnage"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="JonCarnage"] {
+img[alt="JonCarnage"],
+#article-content-wrapper #article-content img[alt="JonCarnage"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="JonCarnage"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKkyu.gif);
     width: var(--animated-size);
-    height:  var(--animated-size) !important;
+    height: var(--animated-size) !important;
     padding-left: var(--animated-size);
-    background-size: var(--animated-size) var(--animated-size);;
+    background-size: var(--animated-size) var(--animated-size);
 }
 
-span[data-param1*="KevinTurtle"] img {
+span[data-param1="KevinTurtle"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicTT.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="KevinTurtle"],
-#article-content-wrapper #article-content img[alt*="KevinTurtle"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="KevinTurtle"] {
+img[alt="KevinTurtle"],
+#article-content-wrapper #article-content img[alt="KevinTurtle"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="KevinTurtle"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicTT.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
-    background-size: var(--animated-size) var(--animated-size);;
+    background-size: var(--animated-size) var(--animated-size);
 }
 
-span[data-param1*="Kreygasm"] img {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicScared\.gif);
+span[data-param1="Kreygasm"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicScared.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt*="Kreygasm"],
-#article-content-wrapper #article-content img[alt*="Kreygasm"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="Kreygasm"] {
+img[alt="Kreygasm"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicScared.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
-    background-size: var(--animated-size) var(--animated-size);;
+    background-size: var(--animated-size) var(--animated-size);
 }
-
-/* --------- to be removed -------- */
-/* --------- to be removed -------- */
-/* --------- to be removed -------- */
-span[data-param1*="GreenTeam"] img {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
-    width: 25px;
-    padding-left: 25px;
-    background-size: 25px 25px;
-}
-
-img[alt*="GreenTeam"],
-#article-content-wrapper #article-content img[alt*="GreenTeam"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="GreenTeam"] {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
-    width: 32px;
-    height: 32px !important;
-    padding-left: 32px;
-    background-size: 32px 32px;
-}
-
-span[data-param1*="RedTeam"] img {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKuku.png);
-    width: 25px;
-    padding-left: 25px;
-    background-size: 25px 25px;
-}
-
-img[alt*="RedTeam"],
-#article-content-wrapper #article-content img[alt*="RedTeam"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="RedTeam"] {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKuku.png);
-    width: 32px;
-    height: 32px !important;
-    padding-left: 32px;
-    background-size: 32px 32px;
-}
-
-
-span[data-param1*="HappyJack"] img {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSoiru.png);
-    width: 25px;
-    padding-left: 25px;
-    background-size: 25px 25px;
-}
-
-img[alt*="HappyJack"],
-#article-content-wrapper #article-content img[alt*="HappyJack"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="HappyJack"] {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSoiru.png);
-    width: 32px;
-    height: 32px !important;
-    padding-left: 32px;
-    background-size: 32px 32px;
-}
-
-
-span[data-param1*="AngryJack"] img {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBan.png);
-    width: 25px;
-    padding-left: 25px;
-    background-size: 25px 25px;
-}
-
-img[alt*="AngryJack"],
-#article-content-wrapper #article-content img[alt*="AngryJack"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="AngryJack"] {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBan.png);
-    width: 32px;
-    height: 32px !important;
-    padding-left: 32px;
-    background-size: 32px 32px;
-}
-
-
-span[data-param1*="PurpleStar"] img {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSun.png);
-    width: 25px;
-    padding-left: 25px;
-    background-size: 25px 25px;
-}
-
-img[alt*="PurpleStar"],
-#article-content-wrapper #article-content img[alt*="PurpleStar"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="PurpleStar"] {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSun.png);
-    width: 32px;
-    height: 32px !important;
-    padding-left: 32px;
-    background-size: 32px 32px;
-}
-
-span[data-param1="FBtouchdown"] img {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicZero.png);
-    width: 25px;
-    padding-left: 25px;
-    background-size: 25px 25px;
-}
-
-img[alt="FBtouchdown"],
-#article-content-wrapper #article-content img[alt="FBtouchdown"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt*="FBtouchdown"] {
-    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicZero.png);
-    width: 32px;
-    height: 32px !important;
-    padding-left: 32px;
-    background-size: 32px 32px;
-}
-/* --------- to be removed -------- */
-/* --------- to be removed -------- */
-/* --------- to be removed -------- */
-
 
 
