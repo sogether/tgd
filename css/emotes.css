@@ -242,7 +242,9 @@ span[data-param1="Kreygasm"] img {
     background-size: 25px 25px;
 }
 
-img[alt="Kreygasm"] {
+img[alt="Kreygasm"],
+#article-content-wrapper #article-content img[alt="KevinTurtle"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="KevinTurtle"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicScared.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
