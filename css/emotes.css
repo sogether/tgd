@@ -252,3 +252,37 @@ img[alt="Kreygasm"],
     background-size: var(--animated-size) var(--animated-size);
 }
 
+span[data-param1="PunchTrees"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicAgumonAnimated.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="PunchTrees"],
+#article-content-wrapper #article-content img[alt="PunchTrees"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="PunchTrees"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicAgumonAnimated.gif);
+    width: var(--animated-size);
+    height:  var(--animated-size) !important;
+    padding-left: var(--animated-size);
+    background-size: var(--animated-size) var(--animated-size);
+}
+
+span[data-param1="SSSsss"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBack.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="SSSsss"],
+#article-content-wrapper #article-content img[alt="SSSsss"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="SSSsss"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBack.gif);
+    width: var(--animated-size);
+    height:  var(--animated-size) !important;
+    padding-left: var(--animated-size);
+    background-size: var(--animated-size) var(--animated-size);
+}
+
