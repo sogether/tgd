@@ -243,8 +243,8 @@ span[data-param1="Kreygasm"] img {
 }
 
 img[alt="Kreygasm"],
-#article-content-wrapper #article-content img[alt="KevinTurtle"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="KevinTurtle"] {
+#article-content-wrapper #article-content img[alt="Kreygasm"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="Kreygasm"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicScared.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
