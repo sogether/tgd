@@ -10,6 +10,10 @@
     height: 25px !important;
 }
 
+.fr-popup.emoticons {
+    height: 245px;
+}
+
 span[data-param1="JKanStyle"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 25px;
@@ -280,6 +284,23 @@ img[alt="SSSsss"],
 #article-content-wrapper #article-content img[alt="SSSsss"],
 #article-reply-area #reply-real-area .reply > .reply-content img[alt="SSSsss"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBack.gif);
+    width: var(--animated-size);
+    height:  var(--animated-size) !important;
+    padding-left: var(--animated-size);
+    background-size: var(--animated-size) var(--animated-size);
+}
+
+span[data-param1="FunRun"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicHoxy.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="FunRun"],
+#article-content-wrapper #article-content img[alt="FunRun"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="FunRun"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicHoxy.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
