@@ -290,16 +290,16 @@ img[alt="SSSsss"],
     background-size: var(--animated-size) var(--animated-size);
 }
 
-span[data-param1="FunRun"] img {
+span[data-param1="ArsonNoSexy"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicHoxy.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="FunRun"],
-#article-content-wrapper #article-content img[alt="FunRun"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="FunRun"] {
+img[alt="ArsonNoSexy"],
+#article-content-wrapper #article-content img[alt="ArsonNoSexy"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="ArsonNoSexy"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicHoxy.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
