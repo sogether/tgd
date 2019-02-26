@@ -307,3 +307,20 @@ img[alt="ArsonNoSexy"],
     background-size: var(--animated-size) var(--animated-size);
 }
 
+span[data-param1="SMOrc"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicMakzi.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="SMOrc"],
+#article-content-wrapper #article-content img[alt="SMOrc"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="SMOrc"] {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicMakzi.gif);
+    width: var(--animated-size);
+    height:  var(--animated-size) !important;
+    padding-left: var(--animated-size);
+    background-size: var(--animated-size) var(--animated-size);
+}
+
