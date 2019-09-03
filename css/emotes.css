@@ -324,6 +324,13 @@ img[alt="SMOrc"],
     background-size: var(--animated-size) var(--animated-size);
 }
 
+span[data-param1="FrankerZ"] img {
+    background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicJoke.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
 img[alt="FrankerZ"],
 #article-content-wrapper #article-content img[alt="FrankerZ"],
 #article-reply-area #reply-real-area .reply > .reply-content img[alt="FrankerZ"] {
