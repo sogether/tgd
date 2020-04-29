@@ -31,16 +31,16 @@ img[alt="\\:-?\\)"],
     background-size: 32px 32px;
 }
 
-span[data-param1="OptimizePrime"] img {
+span[data-param1="\\:-?\\("] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKuku.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="OptimizePrime"],
-#article-content-wrapper #article-content img[alt="OptimizePrime"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="OptimizePrime"] {
+img[alt="\\:-?\\("],
+#article-content-wrapper #article-content img[alt="\\:-?\\("],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\:-?\\("] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKuku.png);
     width: 32px;
     height: 32px !important;
@@ -49,16 +49,16 @@ img[alt="OptimizePrime"],
 }
 
 
-span[data-param1="StoneLightning"] img {
+span[data-param1="\\:-?D"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSoiru.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="StoneLightning"],
-#article-content-wrapper #article-content img[alt="StoneLightning"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="StoneLightning"] {
+img[alt="\\:-?D"],
+#article-content-wrapper #article-content img[alt="\\:-?D"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\:-?D"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSoiru.png);
     width: 32px;
     height: 32px !important;
@@ -67,16 +67,16 @@ img[alt="StoneLightning"],
 }
 
 
-span[data-param1="TheRinger"] img {
+span[data-param1="\\>\\;\\("] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBan.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="TheRinger"],
-#article-content-wrapper #article-content img[alt="TheRinger"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="TheRinger"] {
+img[alt="\\>\\;\\("],
+#article-content-wrapper #article-content img[alt="\\>\\;\\("],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\>\\;\\("] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBan.png);
     width: 32px;
     height: 32px !important;
@@ -85,16 +85,16 @@ img[alt="TheRinger"],
 }
 
 
-span[data-param1="RedCoat"] img {
+span[data-param1="\\:-?[z|Z|\\|]"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSun.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="RedCoat"],
-#article-content-wrapper #article-content img[alt="RedCoat"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="RedCoat"] {
+img[alt="\\:-?[z|Z|\\|]"],
+#article-content-wrapper #article-content img[alt="\\:-?[z|Z|\\|]"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\:-?[z|Z|\\|]"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicSun.png);
     width: 32px;
     height: 32px !important;
@@ -103,16 +103,16 @@ img[alt="RedCoat"],
 }
 
 
-span[data-param1="Kappa"] img {
+span[data-param1="[oO](_|\\.)[oO]"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicZero.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="Kappa"],
-#article-content-wrapper #article-content img[alt="Kappa"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="Kappa"] {
+img[alt="[oO](_|\\.)[oO]"],
+#article-content-wrapper #article-content img[alt="[oO](_|\\.)[oO]"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="[oO](_|\\.)[oO]"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicZero.png);
     width: 32px;
     height: 32px !important;
@@ -120,16 +120,16 @@ img[alt="Kappa"],
     background-size: 32px 32px;
 }
 
-span[data-param1="BCWarrior"] img {
+span[data-param1="B-?\\)"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicClap.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="BCWarrior"],
-#article-content-wrapper #article-content img[alt="BCWarrior"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="BCWarrior"] {
+img[alt="B-?\\)"],
+#article-content-wrapper #article-content img[alt="B-?\\)"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="B-?\\)"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicClap.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -138,16 +138,16 @@ img[alt="BCWarrior"],
     border-radius: 10px;
 }
 
-span[data-param1="GingerPower"] img {
+span[data-param1="\\:-?(o|O)"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicDance.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="GingerPower"],
-#article-content-wrapper #article-content img[alt="GingerPower"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="GingerPower"] {
+img[alt="\\:-?(o|O)"],
+#article-content-wrapper #article-content img[alt="\\:-?(o|O)"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\:-?(o|O)"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicDance.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -156,16 +156,16 @@ img[alt="GingerPower"],
     border-radius: 10px;
 }
 
-span[data-param1="DansGame"] img {
+span[data-param1="\\<\\;3"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicHorde.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="DansGame"],
-#article-content-wrapper #article-content img[alt="DansGame"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="DansGame"] {
+img[alt="\\<\\;3"],
+#article-content-wrapper #article-content img[alt="\\<\\;3"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\<\\;3"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicHorde.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -174,16 +174,16 @@ img[alt="DansGame"],
     border-radius: 10px;
 }
 
-span[data-param1="SwiftRage"] img {
+span[data-param1="\\:-?[\\/]"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicShrug.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="SwiftRage"],
-#article-content-wrapper #article-content img[alt="SwiftRage"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="SwiftRage"] {
+img[alt="\\:-?[\\/]"],
+#article-content-wrapper #article-content img[alt="\\:-?[\\/]"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\:-?[\\/]"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicShrug.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -192,16 +192,16 @@ img[alt="SwiftRage"],
     border-radius: 10px;
 }
 
-span[data-param1="PJSalt"] img {
+span[data-param1="\\;-?\\)"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicStress.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="PJSalt"],
-#article-content-wrapper #article-content img[alt="PJSalt"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="PJSalt"] {
+img[alt="\\;-?\\)"],
+#article-content-wrapper #article-content img[alt="\\;-?\\)"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\;-?\\)"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicStress.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -210,16 +210,16 @@ img[alt="PJSalt"],
     border-radius: 10px;
 }
 
-span[data-param1="JonCarnage"] img {
+span[data-param1="\\;-?\\)"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKkyu.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="JonCarnage"],
-#article-content-wrapper #article-content img[alt="JonCarnage"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="JonCarnage"] {
+img[alt="\\;-?\\)"],
+#article-content-wrapper #article-content img[alt="\\;-?\\)"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\;-?\\)"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKkyu.gif);
     width: var(--animated-size);
     height: var(--animated-size) !important;
@@ -228,16 +228,16 @@ img[alt="JonCarnage"],
     border-radius: 10px;
 }
 
-span[data-param1="KevinTurtle"] img {
+span[data-param1="\\:-?(p|P)"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicTT.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="KevinTurtle"],
-#article-content-wrapper #article-content img[alt="KevinTurtle"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="KevinTurtle"] {
+img[alt="\\:-?(p|P)"],
+#article-content-wrapper #article-content img[alt="\\:-?(p|P)"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\:-?(p|P)"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicTT.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -246,16 +246,16 @@ img[alt="KevinTurtle"],
     border-radius: 10px;
 }
 
-span[data-param1="Kreygasm"] img {
+span[data-param1="\\;-?(p|P)"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicScared.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="Kreygasm"],
-#article-content-wrapper #article-content img[alt="Kreygasm"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="Kreygasm"] {
+img[alt="\\;-?(p|P)"],
+#article-content-wrapper #article-content img[alt="\\;-?(p|P)"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\;-?(p|P)"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicScared.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -264,16 +264,16 @@ img[alt="Kreygasm"],
     border-radius: 10px;
 }
 
-span[data-param1="PunchTrees"] img {
+span[data-param1="R-?\\)"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicAgumonAnimated.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="PunchTrees"],
-#article-content-wrapper #article-content img[alt="PunchTrees"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="PunchTrees"] {
+img[alt="R-?\\)"],
+#article-content-wrapper #article-content img[alt="R-?\\)"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="R-?\\)"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicAgumonAnimated.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -282,16 +282,16 @@ img[alt="PunchTrees"],
     border-radius: 10px;
 }
 
-span[data-param1="SSSsss"] img {
+span[data-param1="JKanStyle"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBack.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="SSSsss"],
-#article-content-wrapper #article-content img[alt="SSSsss"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="SSSsss"] {
+img[alt="JKanStyle"],
+#article-content-wrapper #article-content img[alt="JKanStyle"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="JKanStyle"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicBack.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -300,16 +300,16 @@ img[alt="SSSsss"],
     border-radius: 10px;
 }
 
-span[data-param1="ArsonNoSexy"] img {
+span[data-param1="OptimizePrime"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicHoxy.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="ArsonNoSexy"],
-#article-content-wrapper #article-content img[alt="ArsonNoSexy"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="ArsonNoSexy"] {
+img[alt="OptimizePrime"],
+#article-content-wrapper #article-content img[alt="OptimizePrime"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="OptimizePrime"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicHoxy.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -318,16 +318,16 @@ img[alt="ArsonNoSexy"],
     border-radius: 10px;
 }
 
-span[data-param1="SMOrc"] img {
+span[data-param1="StoneLightning"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicMakzi.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="SMOrc"],
-#article-content-wrapper #article-content img[alt="SMOrc"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="SMOrc"] {
+img[alt="StoneLightning"],
+#article-content-wrapper #article-content img[alt="StoneLightning"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="StoneLightning"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicMakzi.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
@@ -336,16 +336,16 @@ img[alt="SMOrc"],
     border-radius: 10px;
 }
 
-span[data-param1="FrankerZ"] img {
+span[data-param1="TheRinger"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicJoke.gif);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="FrankerZ"],
-#article-content-wrapper #article-content img[alt="FrankerZ"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="FrankerZ"] {
+img[alt="TheRinger"],
+#article-content-wrapper #article-content img[alt="TheRinger"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="TheRinger"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicJoke.gif);
     width: var(--animated-size);
     height:  var(--animated-size) !important;
