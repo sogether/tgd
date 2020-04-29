@@ -14,16 +14,16 @@
     height: 245px;
 }
 
-span[data-param1="\:-?\)"] img {
+span[data-param1="\\:-?\\)"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="\:-?\)"],
-#article-content-wrapper #article-content img[alt="\:-?\)"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="\:-?\)"] {
+img[alt="\\:-?\\)"],
+#article-content-wrapper #article-content img[alt="\\:-?\\)"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\\:-?\\)"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 32px;
     height: 32px !important;
