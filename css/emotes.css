@@ -1,5 +1,5 @@
 :root{
-    --animated-size: 50px;
+    --animated-size: 75px;
 }
 .fr-popup .fr-emoticon {
     font-size: 30px;
@@ -14,16 +14,16 @@
     height: 245px;
 }
 
-span[data-param1="JKanStyle"] img {
+span[data-param1="\:-?\)"] img {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 25px;
     padding-left: 25px;
     background-size: 25px 25px;
 }
 
-img[alt="JKanStyle"],
-#article-content-wrapper #article-content img[alt="JKanStyle"],
-#article-reply-area #reply-real-area .reply > .reply-content img[alt="JKanStyle"] {
+img[alt="\:-?\)"],
+#article-content-wrapper #article-content img[alt="\:-?\)"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt="\:-?\)"] {
     background: url(https://sogether.github.io/tgd/images/custom_emotes/picnicKamorip.png);
     width: 32px;
     height: 32px !important;
@@ -135,6 +135,7 @@ img[alt="BCWarrior"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="GingerPower"] img {
@@ -152,6 +153,7 @@ img[alt="GingerPower"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="DansGame"] img {
@@ -169,6 +171,7 @@ img[alt="DansGame"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="SwiftRage"] img {
@@ -186,6 +189,7 @@ img[alt="SwiftRage"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="PJSalt"] img {
@@ -203,6 +207,7 @@ img[alt="PJSalt"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="JonCarnage"] img {
@@ -220,6 +225,7 @@ img[alt="JonCarnage"],
     height: var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="KevinTurtle"] img {
@@ -237,6 +243,7 @@ img[alt="KevinTurtle"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="Kreygasm"] img {
@@ -254,6 +261,7 @@ img[alt="Kreygasm"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="PunchTrees"] img {
@@ -271,6 +279,7 @@ img[alt="PunchTrees"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="SSSsss"] img {
@@ -288,6 +297,7 @@ img[alt="SSSsss"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="ArsonNoSexy"] img {
@@ -305,6 +315,7 @@ img[alt="ArsonNoSexy"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="SMOrc"] img {
@@ -322,6 +333,7 @@ img[alt="SMOrc"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
 span[data-param1="FrankerZ"] img {
@@ -339,5 +351,6 @@ img[alt="FrankerZ"],
     height:  var(--animated-size) !important;
     padding-left: var(--animated-size);
     background-size: var(--animated-size) var(--animated-size);
+    border-radius: 10px;
 }
 
